@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.16ab520e.css",
-    "main.js": "/static/js/main.4fef134f.js",
+    "main.css": "/static/css/main.956e3300.css",
+    "main.js": "/static/js/main.d95091f1.js",
     "static/js/787.88de62d7.chunk.js": "/static/js/787.88de62d7.chunk.js",
     "static/media/header.jpg": "/static/media/header.9ee5a121426ba4b078bd.jpg",
-    "static/media/antoine-barres.jpg": "/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
-    "static/media/login-image.jpg": "/static/media/login-image.21e8ba3f9dca3c346851.jpg",
-    "static/media/federico-beccari.jpg": "/static/media/federico-beccari.ab3a31e7758f490adca7.jpg",
-    "static/media/bruno-abatti.jpg": "/static/media/bruno-abatti.ac5426e506a4892af54d.jpg",
+    "static/media/imperial_spezialtransporte2_1200_02.jpg": "/static/media/imperial_spezialtransporte2_1200_02.db194f4c6a4497f09fb0.jpg",
+    "static/media/Wireless.JPG": "/static/media/Wireless.2c8e797b1eca6e200fc9.JPG",
+    "static/media/SC.jpg": "/static/media/SC.aab91096e29830e89b92.jpg",
+    "static/media/00.jpg": "/static/media/00.2359742e571140d1a873.jpg",
+    "static/media/Logistics.jpg": "/static/media/Logistics.0c7581503093296169cc.jpg",
+    "static/media/Robotics.jpg": "/static/media/Robotics.f10490734c394feaa3d9.jpg",
+    "static/media/DIGITAL.JPG": "/static/media/DIGITAL.df7b9a07947ff1d057ae.JPG",
+    "static/media/mRnrt0.jpg": "/static/media/mRnrt0.e90ce0bf8a5395f92042.jpg",
+    "static/media/IoT.jpg": "/static/media/IoT.fdb8636bea997a4c41fb.jpg",
+    "static/media/Data.jpg": "/static/media/Data.9dcc7d6d5f7170846066.jpg",
     "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
     "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
     "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
     "index.html": "/index.html",
-    "main.16ab520e.css.map": "/static/css/main.16ab520e.css.map",
-    "main.4fef134f.js.map": "/static/js/main.4fef134f.js.map",
+    "main.956e3300.css.map": "/static/css/main.956e3300.css.map",
+    "main.d95091f1.js.map": "/static/js/main.d95091f1.js.map",
     "787.88de62d7.chunk.js.map": "/static/js/787.88de62d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16ab520e.css",
-    "static/js/main.4fef134f.js"
+    "static/css/main.956e3300.css",
+    "static/js/main.d95091f1.js"
   ]
 }
