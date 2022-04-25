@@ -1,28 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.956e3300.css",
-    "main.js": "/static/js/main.a9abd079.js",
-    "static/js/787.19164d7e.chunk.js": "/static/js/787.19164d7e.chunk.js",
-    "static/media/04.jpg": "/static/media/04.01614bed05ef14829f1b.jpg",
-    "static/media/Wireless.JPG": "/static/media/Wireless.2c8e797b1eca6e200fc9.JPG",
-    "static/media/Digital.png": "/static/media/Digital.8dd500263b1fe0ffc74b.png",
-    "static/media/unnamed-5.png": "/static/media/unnamed-5.e33b8a29e6fbc4484e00.png",
-    "static/media/DadTimes.jpg": "/static/media/DadTimes.4869f0afe8accc42d97e.jpg",
-    "static/media/Network.jpg": "/static/media/Network.e3645132464b52f3584a.jpg",
-    "static/media/Drones.jpg": "/static/media/Drones.dfb3c5328e7ecff83989.jpg",
-    "static/media/Data.jpg": "/static/media/Data.9dcc7d6d5f7170846066.jpg",
-    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
-    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
-    "static/media/logo6.jpeg": "/static/media/logo6.66847fbca9a9bfbbbe2d.jpeg",
-    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
-    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
-    "index.html": "/index.html",
-    "main.956e3300.css.map": "/static/css/main.956e3300.css.map",
-    "main.a9abd079.js.map": "/static/js/main.a9abd079.js.map",
-    "787.19164d7e.chunk.js.map": "/static/js/787.19164d7e.chunk.js.map"
+    "main.css": "https://anthonybn7.github.io/newdemo/static/css/main.507fbb63.css",
+    "main.js": "https://anthonybn7.github.io/newdemo/static/js/main.998128d9.js",
+    "static/js/787.8f9d60c3.chunk.js": "https://anthonybn7.github.io/newdemo/static/js/787.8f9d60c3.chunk.js",
+    "static/media/Graphik-Semibold.woff2": "https://anthonybn7.github.io/newdemo/static/media/Graphik-Semibold.53485f6bfd16ad68f3a6.woff2",
+    "static/media/Graphik-Medium.woff2": "https://anthonybn7.github.io/newdemo/static/media/Graphik-Medium.5bfaca03149b1dd572e3.woff2",
+    "static/media/Graphik-Regular.woff2": "https://anthonybn7.github.io/newdemo/static/media/Graphik-Regular.7a9feded14088a0fa206.woff2",
+    "static/media/fleet.svg": "https://anthonybn7.github.io/newdemo/static/media/fleet.25bef37985dec0895231f2e9666097e8.svg",
+    "static/media/logo6.jpeg": "https://anthonybn7.github.io/newdemo/static/media/logo6.66847fbca9a9bfbbbe2d.jpeg",
+    "index.html": "https://anthonybn7.github.io/newdemo/index.html",
+    "main.507fbb63.css.map": "https://anthonybn7.github.io/newdemo/static/css/main.507fbb63.css.map",
+    "main.998128d9.js.map": "https://anthonybn7.github.io/newdemo/static/js/main.998128d9.js.map",
+    "787.8f9d60c3.chunk.js.map": "https://anthonybn7.github.io/newdemo/static/js/787.8f9d60c3.chunk.js.map",
+    "homepage": "."
   },
   "entrypoints": [
-    "static/css/main.956e3300.css",
-    "static/js/main.a9abd079.js"
+    
+    "https://anthonybn7.github.io/newdemo/static/css/main.507fbb63.css",
+    "https://anthonybn7.github.io/newdemo/static/js/main.998128d9.js"
   ]
 }
